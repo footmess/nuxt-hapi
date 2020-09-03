@@ -12,7 +12,7 @@
 		"test": "jest"
 	},
 	"dependencies": {
-		"@hapi/hapi": "^18.3.1",
+		"@hapi/hapi": "^19.1.1",
 		"@nuxtjs/axios": "^5.3.6",
 		"@nuxtjs/dotenv": "^1.4.0",
 		"@nuxtjs/hapi": "^2.2.1",
